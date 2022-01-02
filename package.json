@@ -1,0 +1,16 @@
+{
+  "name": "cypress-visualtest-percy",
+  "version": "1.0.0",
+  "description": "visual regression testing using cypress percy",
+  "main": "index.js",
+  "scripts": {
+    "cy:open":"cypress open"
+  },
+  "author": "alfa",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.2.0",
+    "cypress-image-snapshot": "^4.0.1",
+    "prettier": "^2.5.1"
+  }
+}
